@@ -1,6 +1,7 @@
 # Blackbone
 
 ### Windows memory hacking library
+### 这是Windows内存保护程序，防止进程被注入、被修改。类似游戏保护程序。
 
 ## Features
 
